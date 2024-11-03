@@ -1,0 +1,124 @@
+{
+  "inventario": [
+    {
+      "id_producto": 1,
+      "nombre_producto": "Máscara de Pestañas",
+      "marca": "Esika",
+      "cantidad_actual": 25,
+      "precio_compra": "22.300",
+      "precio_venta": "41.400",
+      "imagen": "https://belcorpcolombia.vtexassets.com/arquivos/ids/971349-1200-auto?v=638616000144230000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 2,
+      "nombre_producto": "Agua Micelar",
+      "cantidad_actual": 50,
+      "marca": "Esika",
+      "precio_compra": "30.500",
+      "precio_venta": "50.400",
+      "imagen": "https://belcorpcolombia.vtexassets.com/arquivos/ids/967574-1200-auto?v=638574570212970000&width=1200&height=auto&aspect=true",
+      "canjeable": true
+    },
+    {
+      "id_producto": 3,
+      "nombre_producto": "Crema Aclarant",
+      "marca": "Esika",
+      "cantidad_actual": 40,
+      "precio_compra": "35.000",
+      "precio_venta": "45.000",
+      "imagen": "https://belcorpcolombia.vtexassets.com/arquivos/ids/969834-1200-auto?v=638593536133100000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 4,
+      "nombre_producto": "Night Perfume de Mujer",
+      "marca": "Esika",
+      "cantidad_actual": 30,
+      "precio_compra": "100.800",
+      "precio_venta": "135.000",
+      "imagen": "https://belcorpcolombia.vtexassets.com/arquivos/ids/974273-1200-auto?v=638652270163270000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 5,
+      "nombre_producto": "Perfume de Mujer",
+      "marca": "L'Bel",
+      "cantidad_actual": 20,
+      "precio_compra": "96.000",
+      "precio_venta": "136.000",
+      "imagen": "https://lbelcolombia.vtexassets.com/arquivos/ids/971075-1200-auto?v=638609856121500000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 6,
+      "nombre_producto": "Perfume de mujer Miss L'BEL",
+      "marca": "L'Bel",
+      "cantidad_actual": 15,
+      "precio_compra": "133.000",
+      "precio_venta": "174.000",
+      "imagen": "https://belcorpcolombia.vtexassets.com/arquivos/ids/972352-1200-auto?v=638636622144530000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 7,
+      "nombre_producto": "Bleu Femme Loción",
+      "marca": "L'Bel",
+      "cantidad_actual": 30,
+      "precio_compra": "40.000",
+      "precio_venta": "78.000",
+      "imagen": "https://belcorpcolombia.vtexassets.com/arquivos/ids/967227-1200-auto?v=638567436862700000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 8,
+      "nombre_producto": "Duo Amplifiant Labial",
+      "marca": "L'Bel",
+      "cantidad_actual": 25,
+      "precio_compra": "30.000",
+      "precio_venta": "52.000",
+      "imagen": "https://belcorpcolombia.vtexassets.com/arquivos/ids/937007-1200-auto?v=638300586122170000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 9,
+      "nombre_producto": "Perfume De Mujer Sweet",
+      "marca": "Cyzone",
+      "cantidad_actual": 35,
+      "precio_compra": "45.000",
+      "precio_venta": "68.400",
+      "imagen": "https://cyzonecolombia.vtexassets.com/arquivos/ids/959178-1200-auto?v=638503656195100000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 10,
+      "nombre_producto": "Labial Mate Studio",
+      "marca": "Cyzone",
+      "cantidad_actual": 35,
+      "precio_compra": "15.000",
+      "precio_venta": "32.400",
+      "imagen": "https://cyzonecolombia.vtexassets.com/arquivos/ids/974700-1200-auto?v=638658150131830000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 11,
+      "nombre_producto": "Hidratante Citrus Candy",
+      "marca": "Cyzone",
+      "cantidad_actual": 35,
+      "precio_compra": "23.000",
+      "precio_venta": "48.450",
+      "imagen": "https://cyzonecolombia.vtexassets.com/arquivos/ids/959178-1200-auto?v=638503656195100000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    },
+    {
+      "id_producto": 12,
+      "nombre_producto": "Protector Solar Facial",
+      "marca": "Cyzone",
+      "cantidad_actual": 35,
+      "precio_compra": "35.000",
+      "precio_venta": "57.960",
+      "imagen": "https://belcorpcolombia.vtexassets.com/arquivos/ids/958250-1200-auto?v=638494014140470000&width=1200&height=auto&aspect=true",
+      "canjeable": false
+    }
+  ]
+}
